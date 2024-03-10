@@ -1,3 +1,18 @@
 1234567890
 
+
 git init
+
+Git exercise git commands
+-git clone https://github.com/AWLR/Git-Exercise.git
+-cd Git-Exercise(main)
+-git checkout -b "feature" 
+-git add .
+-git commit -m "feature"
+-git push origin feature
+-git checkout main
+-git pull origin main
+-git merge feature
+-git commit -m "merge branch feature"
+-git push origin main
+
